@@ -12,7 +12,7 @@ const nextConfig = {
   swcMinify: true,
   trailingSlash: true,
   output: "export",
-  basePath: "",
+  basePath: "nextra",
 };
 
 module.exports = {
