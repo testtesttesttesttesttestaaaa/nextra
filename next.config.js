@@ -12,6 +12,7 @@ const nextConfig = {
   swcMinify: true,
   trailingSlash: true,
   output: "export",
+  basePath: "",
 };
 
 module.exports = {
